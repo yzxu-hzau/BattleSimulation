@@ -123,9 +123,7 @@ Symulacja
 Przeprowadziliśmy symulację bitwy dla wylosowanego terenu oraz z takim rozkładem jednostek:
 ![image](pic1.png)
 ![image](pic2.png)
-![image](pic1.png)
-
-
+![image](pic3.png)
 
 
 
