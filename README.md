@@ -59,9 +59,9 @@ if the point is in a dense forest then subtract from visibility 2 if the point i
 After a dozen or so seconds, the situation on the battlefield is as follows:
 
 In the battle simulated by us, the Reds won.
-![image](pic1.png)
-![image](pic2.png)
-![image](pic3.png)
+![image](demo/pic1.png)
+![image](demo/pic2.png)
+![image](demo/pic3.png)
 
 
 
