@@ -121,7 +121,9 @@ Następnie w zależności od położenia jednostki która obserwuje daną lokacj
 
 Symulacja
 Przeprowadziliśmy symulację bitwy dla wylosowanego terenu oraz z takim rozkładem jednostek:
-
+![image](pic1.png)
+![image](pic2.png)
+![image](pic1.png)
 
 
 
